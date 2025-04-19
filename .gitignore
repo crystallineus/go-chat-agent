@@ -1,0 +1,17 @@
+# Go build output
+/bin/
+/build/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# OS/macOS stuff
+.DS_Store
+
+# Go module stuff
+go.sum
+
+# Env files
+.env
